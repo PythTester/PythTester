@@ -6,6 +6,8 @@
 
 - 👀 I’m looking to collaborate on Web Applications and AI Programs...
 
+- 🔗 Currently working on an interactive Role-Playing game that engages both gamers and cryptocurrency enthusiasts. 
+
 - 📧 How to reach me Dolphin.0x@proton.me...
 
 <!---
